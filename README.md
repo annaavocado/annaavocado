@@ -1,4 +1,4 @@
-![Header](https://github.com/annaavocado/annaavocado/blob/fc0fb92885d9bc13000f4336147f55ba1a041262/assets/Stocksy_txp33c5c38aAom100_Medium_1735653.jpg)
+![Header](assets/httpswww.postman.comavocado93workspacemy-workspacecollection22390456-954a28e1-b250-4130-93a0-7db0742badd7action=share&creator=22390456.png)
 ## I'm a beggining QA Engineer. 
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
