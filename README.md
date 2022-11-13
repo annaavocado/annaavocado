@@ -1,4 +1,4 @@
-[![Header](https://github.com/annaavocado/annaavocado/blob/fc0fb92885d9bc13000f4336147f55ba1a041262/assets/Stocksy_txp33c5c38aAom100_Medium_1735653.jpg)
+![Header](https://github.com/annaavocado/annaavocado/blob/fc0fb92885d9bc13000f4336147f55ba1a041262/assets/Stocksy_txp33c5c38aAom100_Medium_1735653.jpg)
 ## I'm a beggining QA Engineer. 
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
@@ -35,4 +35,3 @@
 [![Header](https://img.shields.io/badge/Twitter-090909?style=for-the-badge&logo=twitter&logoColor=1c96e8)](https://twitter.com/rusau_qa)
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/artsiomrusau/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artichokeee&show_icons=true&theme=radical)
